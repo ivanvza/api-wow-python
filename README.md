@@ -10,6 +10,7 @@ It was written for a quick glance at character information.
 At the time this was written, the WoW EU auction house was not available therefore it was not implemented. Hopefully sometime soon the auction house functionality can be built in.
 
 ### Python Dependencies
+Now updated to python 3!
 Note: I only had to install these following dependencies, the others were already installed on my local python instance.
 * Requests
   ```
